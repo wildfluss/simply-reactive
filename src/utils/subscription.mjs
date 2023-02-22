@@ -1,4 +1,4 @@
-import { getDepNames, getUpdatedDeps, depsAreEqual } from './object'
+import { getDepNames, getUpdatedDeps, depsAreEqual } from './object.mjs'
 
 export const createSubscription = () => {
   const subscribers = {}

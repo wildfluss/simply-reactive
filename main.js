@@ -1,3 +1,3 @@
-import { simplyReactive } from './src/simply-reactive'
+import { simplyReactive } from "./src/simply-reactive.mjs";
 
-export { simplyReactive as default }
+export { simplyReactive as default };
